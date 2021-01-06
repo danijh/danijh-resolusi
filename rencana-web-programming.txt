@@ -1,0 +1,11 @@
+Rencana Belajar Pengetahuan dasar WEB Programming:
+1. GIT - version Control
+2. Basic Terminal Usage
+3. Data Stuctures & Algorithms
+4. GitHub
+5. Licenses
+6. Semantic Versioning
+7. SSH
+8. HTTP/HTTPS & APIs
+9. Design Patterns
+10. Character Encodings
