@@ -7,6 +7,7 @@ Rencana Belajar Pengetahuan dasar WEB Programming:
 6. Semantic Versioning
 7. SSH
 8. HTTP/HTTPS & APIs
-9. mulai html
-10. Design Patterns
-11. Character Encodings
+9. Design Patterns
+10. Character Encodings
+11. mulai html
+
