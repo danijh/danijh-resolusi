@@ -2,3 +2,5 @@ Dani JH - Resolusi 2021
 - advance di html
 - advance di CSS
 - advance di JavaScript
+- mengerti dan dapat membuat Wireframe web
+- dapat membuat website professional sederhana sendiri
